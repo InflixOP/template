@@ -56,4 +56,4 @@ curl -X POST \
 
 ## 📄 License
 
-This template is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
+This template is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
